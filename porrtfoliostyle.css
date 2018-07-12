@@ -1,3 +1,9 @@
-body {
-    background:rgb(29, 139, 29)
+#red {
+    color: rgb(211, 27, 27);
+}
+#tm{
+    font-family:"Times New Roman",Times,serif;
+}
+#ar{
+    font-family:"Arial",Georgia, 'Times New Roman', Times, serif
 }
