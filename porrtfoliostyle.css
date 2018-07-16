@@ -1,9 +1,17 @@
 #red {
     color: rgb(211, 27, 27);
 }
-#tm{
-    font-family:"Times New Roman",Times,serif;
+
+#tm {
+    font-family: "Times New Roman", Times, serif;
+    float:right;
 }
-#ar{
-    font-family:"Arial",Georgia, 'Times New Roman', Times, serif
+
+#ar {
+    font-family: "Arial", Georgia, 'Times New Roman', Times, serif;
+    float:right;
+}
+
+#me{
+    float:left;
 }
