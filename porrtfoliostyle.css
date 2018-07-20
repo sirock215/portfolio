@@ -2,16 +2,46 @@
     color: rgb(211, 27, 27);
 }
 
-#tm {
-    font-family: "Times New Roman", Times, serif;
-    float:right;
+img {   
+    float: right;
+}
+#tm{
+    font-family: 'Merienda', cursive;
+    float: left;
 }
 
-#ar {
-    font-family: "Arial", Georgia, 'Times New Roman', Times, serif;
-    float:right;
+a:hover {
+    background-color: rgb(34, 224, 224);
 }
 
-#me{
-    float:left;
+body {
+    margin: 0;
+    left: 0;
+    height: 100%
 }
+.nav {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 10px 16px;
+    background-color: red;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+/*font-family: 'Oswald', sans-serif;*/
