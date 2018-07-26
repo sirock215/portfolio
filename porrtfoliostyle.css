@@ -3,6 +3,7 @@ img {
 }
 
 #tm {
+   
     font-family: 'Montserrat', sans-serif;
     float: left;
 }
@@ -18,7 +19,11 @@ body {
     height: 100%    
 }
 body {
-    background-image: url("lean.png");
+    background-image: url("grape.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .nav {
