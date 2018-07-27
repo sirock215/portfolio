@@ -1,4 +1,4 @@
-Portfolio final grade:  91
+Portfolio final grade:  90
 
 Comments:  Your portfolio has a good start, it just needs some fine tuning to make it a responsive design.
 
@@ -6,11 +6,12 @@ Comments:  Your portfolio has a good start, it just needs some fine tuning to ma
 
 Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
 
-Grade: 98
+Grade: 96
 (50% of overall grade)
 
 Points deducted for these items:
   -2 - broken div and p tag on the about page.
+  -2 - use of inline styles in the tags, instead of including in the CSS.
 
 ########
 
