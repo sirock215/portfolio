@@ -1,0 +1,36 @@
+Portfolio final grade:  91
+
+Comments:  Your portfolio has a good start, it just needs some fine tuning to make it a responsive design.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 98
+(50% of overall grade)
+
+Points deducted for these items:
+  -2 - broken div and p tag on the about page.
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 97
+(25% of overall grade)
+
+Points deducted for these items:
+    -3 points - Although the background image was creative, the light-weight font and the changing background color behind your paragraph made the text hard to read in places.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 70
+(25% of overall grade)
+
+Points deducted for these items:
+    -50 - No media queries / mobile design changes used.
+
+Bonus Points awarded:
+    +20 for correct use of multiple CSS styles not presented in class.
